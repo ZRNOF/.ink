@@ -1,4 +1,4 @@
-# Photos-for-image-processing
+# Photos for image processing
 All photos are taken, generated, edited by me.
 
 * [Package](https://github.com/ZRNOF/Photos-for-image-processing/tree/main/Package)

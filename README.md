@@ -1,5 +1,10 @@
-# Photos for image processing
-All photos are taken, generated, edited by me.
+# .ink
+
+Photos for image processing.
+
+All photos are taken, generated, edited by Zaron Chen.
+
+## Usage
 
 * [Package](https://github.com/ZRNOF/.ink/tree/main/Package)
 * [Google Drive](https://drive.google.com/drive/folders/1ZcApxeuljcJ_NJp4POqWFXPzs5-oyNP5)
